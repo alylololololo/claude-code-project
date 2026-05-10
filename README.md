@@ -1,1 +1,1 @@
-# claude-code-project
+"# My Claude Code Project" 
